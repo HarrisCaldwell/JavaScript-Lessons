@@ -294,3 +294,4 @@ let favColor = color === "purple" ? "my favorite color is purple 💜" : "this i
 console.log(favColor)
 
 console.log(`i like to drink ${age >= 18 ? "wine 🍷" : "water 💧"}`)
+console.log("hi")
